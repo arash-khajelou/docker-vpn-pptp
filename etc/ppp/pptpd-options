@@ -1,7 +1,7 @@
 name pptpd
-refuse-pap
-refuse-chap
-refuse-mschap
+require-pap
+require-chap
+require-mschap
 require-mschap-v2
 require-mppe-128
 
